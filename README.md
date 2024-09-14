@@ -16,10 +16,5 @@
 
 <br/>
 
-#### 계층형 아키텍처 채택
+#### 계층형 아키텍처 
 <img width="381" alt="image" src="https://github.com/user-attachments/assets/dc604f5e-eb95-4485-8fc8-92bd136cf3c0">
-
-<br/>
-
-#### 공부 기록
-
